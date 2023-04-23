@@ -11,5 +11,3 @@ The solution is designed using object-oriented principles to ensure modularity a
 - `Population`: A class that represents a population of tours. The class contains functions to generate a random population, select parents for the genetic algorithm, and evolve the population through generations.
 
 To use the program, clone the repository, open it in your favorite C++ IDE, build and run the program. The program will output the best path found and the total distance traveled.
-
-The project is inspired by the work of Marin Vlastelica Pogančić and his Java implementation of the genetic algorithm for the Traveling Salesman Problem.
