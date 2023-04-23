@@ -2,7 +2,7 @@
 
 This project is a C++ implementation of a genetic algorithm to solve the Traveling Salesman Problem. The solution uses object-oriented design to ensure modularity and scalability.
 
-The program prompts users to enter the necessary inputs such as the number of cities, their coordinates, and parameters for the genetic algorithm. The program then uses a genetic algorithm to find an approximate solution to the problem.
+The program generates a random set of cities with random coordinates, and then uses a genetic algorithm to find an approximate solution to the problem.
 
 The solution is designed using object-oriented principles to ensure modularity and scalability. The program includes the following classes:
 
